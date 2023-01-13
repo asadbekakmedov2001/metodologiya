@@ -29,8 +29,6 @@ class UserAdapterAC2 extends RecyclerView.Adapter<UserAdapterAC2.UserAdapterView
         this.selectedUser = selectedUser;
     }
 
-
-
     @NonNull
     @Override
     public UserAdapterViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
