@@ -89,18 +89,25 @@ public class MainActivity2 extends AppCompatActivity implements UserAdapterAC2.S
             }break;
             case 1: {
 
-                textViewSelectedChapterName.setText("HIKOYALAR");
+                textViewSelectedChapterName.setText("ILMIY TADQIQOT METODOLOGIYASI FANIDAN SEMINAR MASHG'ULOTLAR TOP'LAMI");
 
-                modelRcyclers.add(new ModelRcycler("Ibratli hikoya Duoning kuchi","pTWwjHcs41Q"));
-                modelRcyclers.add(new ModelRcycler("Ibratli hikoya Ota va bola suhbati","PTfPFu6QzA8"));
-                modelRcyclers.add(new ModelRcycler("Ikki chelak nok multfilm","6XEST2Vuq7M"));
-                modelRcyclers.add(new ModelRcycler("Och ko'z xo'roz multfilm","Q_1zK4WbgcA"));
-                modelRcyclers.add(new ModelRcycler("Onangizni qadrlang multfilm","S1djLvuIlhI"));
-                modelRcyclers.add(new ModelRcycler("To'g'rivoy bilan Egrivoy multfilm","KYofXUmAFCo"));
-                modelRcyclers.add(new ModelRcycler("Uddaburon shogird multfilm","aZEkG6BPleY"));
-                //modelRcyclers.add(new ModelRcycler("Umid tabassumi Ayblashga shoshilmang","Ef1uNOKbsVI"));
-                modelRcyclers.add(new ModelRcycler("Umid tabassumi Yaqinlaringizni qadrlang","CPb8zevf4Gc"));
-                modelRcyclers.add(new ModelRcycler("Umid tabassumi Ona mehri","IssCGlJzpQw"));
+                modelRcyclers.add(new ModelRcycler("Seminar mavzulari","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/seminar_mavzulari.docx"));
+                modelRcyclers.add(new ModelRcycler("1-mavzu: FAN VA UNING JAMIYATDAGI O‘RNI.","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/seminar1.docx"));
+                modelRcyclers.add(new ModelRcycler("2-mavzu: IJОD VА ILMIY TADQIQOT BILISH FAOLIYATINING MAHSULI","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/seminar2.docx"));
+                modelRcyclers.add(new ModelRcycler("3-mavzu: ILMIY TADQIQOTNING NAMOYON BO‘LISH JIHATLARI. ILMIY TADQIQOTNING NAMOYON BO‘LISH SHAKLLARI.","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/seminar3.docx"));
+                modelRcyclers.add(new ModelRcycler("4-mavzu: ILMIY TADQIQOT TIPLARI.","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/seminar4.docx"));
+                modelRcyclers.add(new ModelRcycler("5-mavzu: ILMIY  TАDQIQОTDА DАLILLАRNING RОLI.","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/seminar5.docx"));
+                modelRcyclers.add(new ModelRcycler("6-mavzu: ILMIY INFORMATSIYANI IZLASH, JAMLASH VA QAYTA ISHLASH. ILMIY ISHLAR VA ILMIY ISHNI YOZISH.","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/seminar6.docx"));
+                modelRcyclers.add(new ModelRcycler("7-mavzu: ILMIY ISHLARNI BADIIY JIHATDAN RASMIYLASHIRISH VA HIMOYA QILISH. ILMIY GRANT UCHUN MATERIALLARNI TAYYORLASH METODOLOGIYASI.","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/seminar7.docx"));
+                modelRcyclers.add(new ModelRcycler("8-mavzu: ILMIY TADQIQOTDA MUAMMO VA MUAMMOLI VAZIYATINING O‘ZARO ALOQASI.","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/seminar8.docx"));
+                modelRcyclers.add(new ModelRcycler("9-mavzu: ILMIY TADQIQOTGA AXBOROT VA AXBOROT TEXNOLOGIYALARINING TA’SIRI.","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/seminar9.docx"));
+                modelRcyclers.add(new ModelRcycler("10-mavzu: ILMIY TADQIQOT METODIDA TUSHUNISH VA TUSHUNTIRISHNING AHAMIYATI.","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/seminar10.docx"));
+                modelRcyclers.add(new ModelRcycler("11-mavzu: ILMIY  TАDQIQОTDА INTUITSIYANING RОLI.","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/seminar11.docx"));
+                modelRcyclers.add(new ModelRcycler("12-mavzu: OLIMNING PROFESSIONAL VA  IJTIMOIY MAS’ULIYATI.","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/seminar12.docx"));
+                modelRcyclers.add(new ModelRcycler("13-mavzu: ILMIY INFORMATSIYANI IZLASH, JAMLASH VA QAYTA ISHLASH. ILMIY ISHLAR VA ILMIY ISHNI YOZISH","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/seminar13.docx"));
+                modelRcyclers.add(new ModelRcycler("14-mavzu: ILMIY ISHLARNI BADIIY JIHATDAN RASMIYLASHIRISH VA HIMOYA QILISH. ILMIY GRANT UCHUN MATERIALLARNI TAYYORLASH METODOLOGIYASI.","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/seminar14.docx"));
+                modelRcyclers.add(new ModelRcycler("15-mavzu: Ilmiy grant. Uni yozish metodologiyasi.","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/seminar15.docx"));
+
 
             }break;
 
