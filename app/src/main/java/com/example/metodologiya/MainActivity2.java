@@ -70,7 +70,7 @@ public class MainActivity2 extends AppCompatActivity implements UserAdapterAC2.S
 
                 textViewSelectedChapterName.setText("ILMIY TADQIQOT METODOLOGIYASI FANIDAN MA'RUZA MASHG'ULOTLAR TOP'LAMI");
 
-                modelRcyclers.add(new ModelRcycler("1-mavzu: FAN VA UNING JAMIYATDAGI O‘RNI.","VTmL1Pgt09g"));
+                modelRcyclers.add(new ModelRcycler("1-mavzu: FAN VA UNING JAMIYATDAGI O‘RNI.","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/maruza1.docx"));
                 modelRcyclers.add(new ModelRcycler("2-mavzu: IJОD VА ILMIY TADQIQOT BILISH FAOLIYATINING MAHSULI","IR0gAxJe5xQ"));
                 modelRcyclers.add(new ModelRcycler("3-mavzu: ILMIY TADQIQOTNING NAMOYON BO‘LISH JIHATLARI. ILMIY TADQIQOTNING NAMOYON BO‘LISH SHAKLLARI.","tKFHgKTPgbk"));
                 modelRcyclers.add(new ModelRcycler("4-mavzu: ILMIY TADQIQOT TIPLARI.","QoSmI_blx1Q"));
