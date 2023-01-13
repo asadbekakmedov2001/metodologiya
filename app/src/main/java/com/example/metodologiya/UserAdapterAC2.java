@@ -29,11 +29,7 @@ class UserAdapterAC2 extends RecyclerView.Adapter<UserAdapterAC2.UserAdapterView
         this.selectedUser = selectedUser;
     }
 
-    public UserAdapterAC2(List<ModelRcycler> userModelList, MainActivity5 selectedUser) {
-        this.userModelList = userModelList;
-        this.userModelListFilter = userModelList;
-        this.selectedUser = selectedUser;
-    }
+
 
     @NonNull
     @Override
