@@ -160,27 +160,9 @@ public class MainActivity2 extends AppCompatActivity implements UserAdapterAC2.S
 
     @Override
     public void selectedUser(ModelRcycler modelRcycler) {
-        if (modelRcycler.getLessonName().toLowerCase().startsWith("maqollardan") ||
-                modelRcycler.getLessonName().toLowerCase().startsWith("topishmoqlardan") ||
-                modelRcycler.getLessonName().toLowerCase().startsWith("o'n") ||
-                modelRcycler.getLessonName().toLowerCase().startsWith("12oy")||
-                modelRcycler.getLessonName().toLowerCase().startsWith("bog'bon") ||
-                modelRcycler.getLessonName().toLowerCase().startsWith("do'stlik")||
-                modelRcycler.getLessonName().toLowerCase().startsWith("mehmon") ||
-                modelRcycler.getLessonName().toLowerCase().startsWith("non")||
-                modelRcycler.getLessonName().toLowerCase().startsWith("oltin") ||
-                modelRcycler.getLessonName().toLowerCase().startsWith("dan")||
-                modelRcycler.getLessonName().toLowerCase().startsWith("o‘zbek")
-        ){
-//
+
             startActivity(new Intent(MainActivity2.this, MainActivity3.class).putExtra("data",modelRcycler.getLoadUrl()));
-        }
-        else {
 
-            startActivity(new Intent(MainActivity2.this, MainActivity4.class).putExtra("data",modelRcycler.getLoadUrl()));
-
-
-        }
 
     }
 }
