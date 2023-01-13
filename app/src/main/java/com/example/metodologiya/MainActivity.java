@@ -16,7 +16,7 @@ import android.view.View;
 import com.example.metodologiya.ui.gallery.GalleryFragment;
 import com.example.metodologiya.ui.home.HomeFragment;
 import com.example.metodologiya.ui.slideshow.SlideshowFragment;
-import com.example.metodologiya.ui.uchinchi.UchinchiFragment;
+
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.tabs.TabLayout;
 
