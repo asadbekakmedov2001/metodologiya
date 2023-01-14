@@ -113,12 +113,23 @@ public class MainActivity2 extends AppCompatActivity implements UserAdapterAC2.S
 
             case 2: {
 
-                textViewSelectedChapterName.setText("MAQOLLAR");
+                textViewSelectedChapterName.setText("ILMIY TADQIQOT METODOLOGIYASI FANIDAN TAQDIMOTLAR TOP'LAMI");
 
-                modelRcyclers.add(new ModelRcycler("Maqollardan parchalar","https://github.com/asadbekakmedov2001/kundalik/raw/main/app/src/main/assets/maqol.pdf"));
-                modelRcyclers.add(new ModelRcycler("Maqollar videosi 1-qism","nSnUGpTBtpM"));
-                modelRcyclers.add(new ModelRcycler("Maqollar videosi 2-qism","0j7if_X7SRU"));
-                modelRcyclers.add(new ModelRcycler("Maqollar videosi 3-qism","YodzbYAIyMg"));
+                modelRcyclers.add(new ModelRcycler("1-mavzu: FAN – IJTIMOIY MADANIY HODISA. FANLAR TASNIFI.","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/maruza1.docx"));
+                modelRcyclers.add(new ModelRcycler("2-mavzu: IJOD VA ILMIY TADQIQOT BILISH FAOLIYATINING MAHSULI.","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/maruza2.docx"));
+                modelRcyclers.add(new ModelRcycler("3-mavzu: ILMIY TADQIQOTNING NAMOYON BO‘LISH JIHATLARI. ILMIY TADQIQOTNING NAMOYON BO‘LISH SHAKLLARI.","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/maruza3.docx"));
+                modelRcyclers.add(new ModelRcycler("4-mavzu: ILMIY TADQIQOT TIPLARI.","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/maruza4.docx"));
+                modelRcyclers.add(new ModelRcycler("5-mavzu: ILMIY  TАDQIQОTDА DАLILLАRNING RОLI.","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/maruza5.docx"));
+                modelRcyclers.add(new ModelRcycler("6-mavzu: Ilmiy maktab, metod va metodologik yondashuvlar. Intellektual mulk huquqi: innovatsiya va novatsilar, kashfiyot va ixtiro, intellektual mulk va patent tushunchalarining mutanosibligi.","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/maruza6.docx"));
+                modelRcyclers.add(new ModelRcycler("7-mavzu: ОQILОNАLIK VА ILMIY TАDQIQОT MЕTОDОLОGIYASI UYG'UNLIGI.","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/maruza7.docx"));
+                modelRcyclers.add(new ModelRcycler("8-mavzu: Muammo va muammoli vaziyat ilmiy tadqiqotning boshlang’ich asosi. Ijod jarayonida ilmiy izlanishlarning ahamiyati.","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/maruza8.docx"));
+                modelRcyclers.add(new ModelRcycler("9-mavzu: ILMIY TADQIQOTGA AXBOROT VA AXBOROT TEXNOLOGIYALARINING TA’SIRI.","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/maruza9.docx"));
+                modelRcyclers.add(new ModelRcycler("10-mavzu: ILMIY TADQIQOT METODIDA TUSHUNISH VA TUSHUNTIRISHNING AHAMIYATI.","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/maruza10.docx"));
+                modelRcyclers.add(new ModelRcycler("11-mavzu: ILMIY  TАDQIQОTDА INTUITSIYANING RОLI.","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/maruza11.docx"));
+                modelRcyclers.add(new ModelRcycler("12-mavzu: OLIMNING PROFESSIONAL VA  IJTIMOIY MAS’ULIYATI.","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/maruza12.docx"));
+                modelRcyclers.add(new ModelRcycler("13-mavzu: ILMIY INFORMATSIYANI IZLASH, JAMLASH VA QAYTA ISHLASH. ILMIY ISHLAR VA ILMIY ISHNI YOZISH","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/maruza13.docx"));
+                modelRcyclers.add(new ModelRcycler("14-mavzu: ILMIY ISHLARNI BADIIY JIHATDAN RASMIYLASHIRISH VA HIMOYA QILISH. ILMIY GRANT UCHUN MATERIALLARNI TAYYORLASH METODOLOGIYASI.","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/maruza14.docx"));
+                modelRcyclers.add(new ModelRcycler("15-mavzu: Ilmiy grant. Uni yozish metodologiyasi.","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/maruza15.docx"));
 
 
             }break;
