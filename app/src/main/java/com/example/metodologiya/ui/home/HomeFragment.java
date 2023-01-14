@@ -57,7 +57,7 @@ public class HomeFragment extends Fragment implements UserAdapter.SelectedUser {
         modelRcyclers.add(new ModelRcycler(R.drawable.ertak,"MA'RUZALARI                                       ","ILMIY TADQIQOT METODOLOGIYASI FANIDAN MA'RUZA MASHG'ULOTLAR TOP'LAMI...",""));
         modelRcyclers.add(new ModelRcycler(R.drawable.hikoyalar,"SEMINARLAR                                          ","ILMIY TADQIQOT METODOLOGIYASI FANIDAN SEMINAR MASHG'ULOTLAR TOP'LAMI...",""));
         modelRcyclers.add(new ModelRcycler(R.drawable.maqol,"TAQDIMOTLAR                                           ","ILMIY TADQIQOT METODOLOGIYASI FANIDAN TAQDIMOTLAR TOP'LAMI...",""));
-        modelRcyclers.add(new ModelRcycler(R.drawable.maqol,"FAN DASTURI                                           ","ILMIY TADQIQOT METODOLOGIYASI FAN DASTURI...",""));
+        modelRcyclers.add(new ModelRcycler(R.drawable.maqol,"FAN DASTURI                                           ","ILMIY TADQIQOT METODOLOGIYASI FAN DASTURI...","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/fan_dasturi.pdf"));
         modelRcyclers.add(new ModelRcycler(R.drawable.tez_aytish,"O'QUV REJA                                         ","ILMIY TADQIQOT METODOLOGIYASI FANINING O'QUV REJASI... ",""));
         modelRcyclers.add(new ModelRcycler(R.drawable.topishmoq,"MUSTAQIL ISHLAR                                           ","ILMIY TADQIQOT METODOLOGIYASI FANIDAN MUSTAQIL ISHLAR TOP'LAMI...",""));
         modelRcyclers.add(new ModelRcycler(R.drawable.beshbob,"TESTLAR                                         ","ILMIY TADQIQOT METODOLOGIYASI FANIDAN TESTLAR TOP'LAMI",""));
