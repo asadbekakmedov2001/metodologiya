@@ -136,14 +136,15 @@ public class MainActivity2 extends AppCompatActivity implements UserAdapterAC2.S
 
             case 4: {
 
-                textViewSelectedChapterName.setText("TOPISHMOQLAR");
+                textViewSelectedChapterName.setText("ILMIY TADQIQOT METODOLOGIYASI FANINING O'QUV REJASI");
 
-                modelRcyclers.add(new ModelRcycler("Topishmoqlardan parchalar","https://github.com/asadbekakmedov2001/kundalik/raw/main/app/src/main/assets/topishmoqlar.pdf"));
-                modelRcyclers.add(new ModelRcycler("Topishmoqlar videosi 1-qism","gdSrRcgaPgo"));
-                modelRcyclers.add(new ModelRcycler("Topishmoqlar videosi 2-qism","LZtAjiAqtxI"));
-                modelRcyclers.add(new ModelRcycler("Topishmoqlar videosi 3-qism","odCcBaYeCqw"));
-                modelRcyclers.add(new ModelRcycler("Topishmoqlar videosi 4-qism","t7mbKT4pQK0"));
-                modelRcyclers.add(new ModelRcycler("Topishmoqlar videosi 5-qism","Z9Z7hb4XEoU"));
+                modelRcyclers.add(new ModelRcycler("5А150901-Дизайн (костюм дизайни)","https://github.com/asadbekakmedov2001/kundalik/raw/main/app/src/main/assets/topishmoqlar.pdf"));
+                modelRcyclers.add(new ModelRcycler("5А311001–Тжичапахта, тўқимачилик ва енгил саноат","gdSrRcgaPgo"));
+                modelRcyclers.add(new ModelRcycler("5А320310 Тўқимачилик ва енгил саноати машиналари ҳамда аппаратлари","LZtAjiAqtxI"));
+                modelRcyclers.add(new ModelRcycler("5А320315 Пахта саноати машиналари ва жиҳозлари ","odCcBaYeCqw"));
+                modelRcyclers.add(new ModelRcycler("5А320401 Кимёвий технология қоғоз ва қоғоз маҳсулотлари ишлаб чиқариш","t7mbKT4pQK0"));
+                modelRcyclers.add(new ModelRcycler("5А320904 - ТСББЛ (дессинаторлар)","Z9Z7hb4XEoU"));
+                modelRcyclers.add(new ModelRcycler("5А321201 – Пахтани дастлабки ишлаш ва уруғ тайёрлаш","Z9Z7hb4XEoU"));
 
             }break;
             case 5: {
