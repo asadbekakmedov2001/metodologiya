@@ -138,13 +138,13 @@ public class MainActivity2 extends AppCompatActivity implements UserAdapterAC2.S
 
                 textViewSelectedChapterName.setText("ILMIY TADQIQOT METODOLOGIYASI FANINING O'QUV REJASI");
 
-                modelRcyclers.add(new ModelRcycler("5А150901-Дизайн (костюм дизайни)","https://github.com/asadbekakmedov2001/kundalik/raw/main/app/src/main/assets/topishmoqlar.pdf"));
-                modelRcyclers.add(new ModelRcycler("5А311001–Тжичапахта, тўқимачилик ва енгил саноат","gdSrRcgaPgo"));
-                modelRcyclers.add(new ModelRcycler("5А320310 Тўқимачилик ва енгил саноати машиналари ҳамда аппаратлари","LZtAjiAqtxI"));
-                modelRcyclers.add(new ModelRcycler("5А320315 Пахта саноати машиналари ва жиҳозлари ","odCcBaYeCqw"));
-                modelRcyclers.add(new ModelRcycler("5А320401 Кимёвий технология қоғоз ва қоғоз маҳсулотлари ишлаб чиқариш","t7mbKT4pQK0"));
-                modelRcyclers.add(new ModelRcycler("5А320904 - ТСББЛ (дессинаторлар)","Z9Z7hb4XEoU"));
-                modelRcyclers.add(new ModelRcycler("5А321201 – Пахтани дастлабки ишлаш ва уруғ тайёрлаш","Z9Z7hb4XEoU"));
+                modelRcyclers.add(new ModelRcycler("5А150901-Дизайн (костюм дизайни)","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/4.1.pdf"));
+                modelRcyclers.add(new ModelRcycler("5А311001–Тжичапахта, тўқимачилик ва енгил саноат","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/4.2.pdf"));
+                modelRcyclers.add(new ModelRcycler("5А320310 Тўқимачилик ва енгил саноати машиналари ҳамда аппаратлари","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/4.3.pdf"));
+                modelRcyclers.add(new ModelRcycler("5А320315 Пахта саноати машиналари ва жиҳозлари ","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/4.4.pdf"));
+                modelRcyclers.add(new ModelRcycler("5А320401 Кимёвий технология қоғоз ва қоғоз маҳсулотлари ишлаб чиқариш","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/4.5.pdf"));
+                modelRcyclers.add(new ModelRcycler("5А320904 - ТСББЛ (дессинаторлар)","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/4.6.pdf"));
+                modelRcyclers.add(new ModelRcycler("5А321201 – Пахтани дастлабки ишлаш ва уруғ тайёрлаш","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/4.7.pdf"));
 
             }break;
             case 5: {
