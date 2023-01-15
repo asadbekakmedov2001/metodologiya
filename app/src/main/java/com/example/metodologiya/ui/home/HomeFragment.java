@@ -54,15 +54,15 @@ public class HomeFragment extends Fragment implements UserAdapter.SelectedUser {
     }
 
     private void initial() {
-        modelRcyclers.add(new ModelRcycler(R.drawable.ertak,"MA'RUZALARI                                       ","ILMIY TADQIQOT METODOLOGIYASI FANIDAN MA'RUZA MASHG'ULOTLAR TOP'LAMI...",""));
-        modelRcyclers.add(new ModelRcycler(R.drawable.hikoyalar,"SEMINARLAR                                          ","ILMIY TADQIQOT METODOLOGIYASI FANIDAN SEMINAR MASHG'ULOTLAR TOP'LAMI...",""));
-        modelRcyclers.add(new ModelRcycler(R.drawable.maqol,"TAQDIMOTLAR                                           ","ILMIY TADQIQOT METODOLOGIYASI FANIDAN TAQDIMOTLAR TOP'LAMI...",""));
-        modelRcyclers.add(new ModelRcycler(R.drawable.maqol,"FAN DASTURI                                           ","ILMIY TADQIQOT METODOLOGIYASI FAN DASTURI...","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/fan_dasturi.pdf"));
-        modelRcyclers.add(new ModelRcycler(R.drawable.tez_aytish,"O'QUV REJA                                         ","ILMIY TADQIQOT METODOLOGIYASI FANINING O'QUV REJASI... ",""));
-        modelRcyclers.add(new ModelRcycler(R.drawable.topishmoq,"MUSTAQIL ISHLAR                                           ","ILMIY TADQIQOT METODOLOGIYASI FANIDAN MUSTAQIL ISHLAR TOP'LAMI...",""));
-        modelRcyclers.add(new ModelRcycler(R.drawable.beshbob,"TESTLAR                                         ","ILMIY TADQIQOT METODOLOGIYASI FANIDAN TESTLAR TOP'LAMI","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/testlar.doc"));
-        modelRcyclers.add(new ModelRcycler(R.drawable.beshbob,"YAKUNIY SAVOLLAR                                         ","ILMIY TADQIQOT METODOLOGIYASI FANIDAN NAMUNAVIY YAKUNIY NAZORAT SAVOLLARI","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/yakuniy_savollari.docx"));
-        modelRcyclers.add(new ModelRcycler(R.drawable.beshbob,"IZOHLI LUG'AT (GLOSSARIY)                                         ","ILMIY TADQIQOT METODOLOGIYASI FANIDAN IZOHLI LUG'AT","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/glossariy.docx"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.icon3,"MA'RUZALARI                                       ","ILMIY TADQIQOT METODOLOGIYASI FANIDAN MA'RUZA MASHG'ULOTLAR TOP'LAMI...",""));
+        modelRcyclers.add(new ModelRcycler(R.drawable.icon2,"SEMINARLAR                                          ","ILMIY TADQIQOT METODOLOGIYASI FANIDAN SEMINAR MASHG'ULOTLAR TOP'LAMI...",""));
+        modelRcyclers.add(new ModelRcycler(R.drawable.icon1,"TAQDIMOTLAR                                           ","ILMIY TADQIQOT METODOLOGIYASI FANIDAN TAQDIMOTLAR TOP'LAMI...",""));
+        modelRcyclers.add(new ModelRcycler(R.drawable.icon4,"FAN DASTURI                                           ","ILMIY TADQIQOT METODOLOGIYASI FAN DASTURI...","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/fan_dasturi.pdf"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.icon5,"O'QUV REJA                                         ","ILMIY TADQIQOT METODOLOGIYASI FANINING O'QUV REJASI... ",""));
+        modelRcyclers.add(new ModelRcycler(R.drawable.icon6,"MUSTAQIL ISHLAR                                           ","ILMIY TADQIQOT METODOLOGIYASI FANIDAN MUSTAQIL ISHLAR TOP'LAMI...",""));
+        modelRcyclers.add(new ModelRcycler(R.drawable.test,"TESTLAR                                         ","ILMIY TADQIQOT METODOLOGIYASI FANIDAN TESTLAR TOP'LAMI","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/testlar.doc"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.yakuniy_icon,"YAKUNIY SAVOLLAR                                         ","ILMIY TADQIQOT METODOLOGIYASI FANIDAN NAMUNAVIY YAKUNIY NAZORAT SAVOLLARI","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/yakuniy_savollari.docx"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.glossary,"IZOHLI LUG'AT (GLOSSARIY)                                         ","ILMIY TADQIQOT METODOLOGIYASI FANIDAN IZOHLI LUG'AT","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/glossariy.docx"));
 
 
 
