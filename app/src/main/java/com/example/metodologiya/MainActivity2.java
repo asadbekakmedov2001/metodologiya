@@ -62,7 +62,7 @@ public class MainActivity2 extends AppCompatActivity implements UserAdapterAC2.S
 
         //backround uchun liner layoutni aniqlash
         constraintLayout = findViewById(R.id.constraintLayout1);
-        constraintLayout.setBackgroundColor(getResources().getColor(R.color.teal_200));
+        constraintLayout.setBackgroundColor(getResources().getColor(R.color.colorPrimary));
 
 
         switch (getChemgeItemPosition){
@@ -151,8 +151,8 @@ public class MainActivity2 extends AppCompatActivity implements UserAdapterAC2.S
 
                 textViewSelectedChapterName.setText("ILMIY TADQIQOT METODOLOGIYASI FANIDAN MUSTAQIL ISHLAR TOP'LAMI");
 
-                modelRcyclers.add(new ModelRcycler("O'n ikki oy ertagi","https://github.com/asadbekakmedov2001/kundalik/raw/main/app/src/main/assets/12oy_ertagi.pdf"));
-                modelRcyclers.add(new ModelRcycler("Bog'bon ertagi","https://github.com/asadbekakmedov2001/kundalik/raw/main/app/src/main/assets/bogbon.pdf"));
+                modelRcyclers.add(new ModelRcycler("Mustaqil ta'limni baxolash mezoni","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/mustaqil_ishni_baholash_mezoni.docx"));
+                modelRcyclers.add(new ModelRcycler("Mustaqil ta'lim mavzular","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/mustaqil_talim.docx"));
 
             }break;
 
