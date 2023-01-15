@@ -57,11 +57,16 @@ public class GalleryFragment extends Fragment implements UserAdapter.SelectedUse
     }
     private void initial() {
 
-        modelRcyclers.add(new ModelRcycler(R.drawable.avtobusdagi_odob,"Bolajonlarni Avtobusda kattalarga xurmat odobi                               ","Agar siz avtobusda yoki metroda bo'lsangiz va buvisi yoki sumkali ayol yaqinida turganda, uni o'z o'rningizga o'tirishga taklif qilishingiz kerak...",""));
-        modelRcyclers.add(new ModelRcycler(R.drawable.muzey,"Bolalarni Muzey va badiiy adabiyotlar bilan tanishtirish                                ","Odob - bu sehrli qoidalar bu sizga odobli, xushmuomala va do'stona inson bo'lishingizga yordam beradi...",""));
-        modelRcyclers.add(new ModelRcycler(R.drawable.dost,"Do'stiga yordam berish odobi                                ","Qoidalar do'stlik siz bilan do'st bo'lishdan va bo'sh vaqtlarini o'tkazishdan xursand bo'ladigan ko'plab do'stlar orttirishga yordam beradi...",""));
-        modelRcyclers.add(new ModelRcycler(R.drawable.kattalarni,"Kattalarni xurmat qilish odobi                                ","Aziz bolajonlar! Siz, albatta, bobo-buvilaringizni, ota-onangizni, aka-opalaringizni, umuman, yoshi kattalarni hurmat qilish zarur ekanini bilasiz. Bu ishingiz tahsinga loyiq...",""));
-        modelRcyclers.add(new ModelRcycler(R.drawable.salomlashish,"Salomlashish odobi                                                    ","Qoidalar salomlashish o'rganishda juda muhim qadamdir odob-axloq qoidalari. Axir, tanish odam bilan uchrashganda birinchi qiladigan ishimiz - u bilan salomlashishdir...",""));
+        modelRcyclers.add(new ModelRcycler(R.drawable.video,"Краткое введние в методологию научного исследования.","Эта лекция - предельно краткое введение в методологию научного исследования. ","bxKybqYkgXw"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.video,"Методология и методы научных исследований","","xWbwLXobnwE"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.video,"Классификация методов научных исследований","План лекции: 1. Классификация методов научных исследований. 2. Общенаучные методы. 3. Теоретические методы. 4. Эмпирические методы. 5. Специальные методы исследования в экономике.","-B7deaVnwPQ"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.video,"Методология науки ","1. Предмет методологии научного познания. 2. Методы анализа структуры и функций научных теорий. 3. Методологические и эвристические принципы построения теорий. 4. Методы анализа и развития научного знания ","bXq7rrJe7hs"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.video,"Методология, методы, методики: в чём разница?","Отрывок 3 части лекции: Зачем нужны здоровьесберегающие технологии","mGTQ5S9gsog"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.video,"ИМКД 1: Что такое Методология? | Вячеслав Вознесенский                              ","","lgQxZh3t1Dg"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.video,"Методология научных исследований. Лекция 1-1. Введение.","Методы научных исследований. Лекция 1-1. Введение.","aIGnW5coKLw"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.video,"Методология научных исследований. Лекция 2. Методология и методы","Методология научных исследований. Лекция 2. Методология и методы.","RKuskAhvlwY"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.video,"Методы научных исследования. Методология научных исследований","Лекция по методам научных исследований","_7NjzIz2j7A"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.video,"Методы научных исследований. Методология в науке. Научное познание (для ветеринаров)","Методология науки. Научное исследование. Методоло́гия нау́ки.","-eV1fcOPtNo"));
 
     }
 
