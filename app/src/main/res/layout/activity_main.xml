@@ -12,12 +12,12 @@
         android:id="@+id/tabLayout"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        app:tabTextColor="#A8A3A3"
+        app:tabTextColor="#FFFFFF"
         app:tabMode="fixed"
         app:tabTextAppearance="@style/MyTabLayoutStyle"
         app:tabIndicatorColor="@color/teal_200"
         app:tabSelectedTextColor="@color/black"
-        android:background="?attr/colorPrimary"/>
+        android:background="@color/mycolor"/>
 
     <RelativeLayout
         android:layout_width="match_parent"
