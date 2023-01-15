@@ -149,16 +149,10 @@ public class MainActivity2 extends AppCompatActivity implements UserAdapterAC2.S
             }break;
             case 5: {
 
-                textViewSelectedChapterName.setText("ERTAKLAR MASHG'ULOT ISHLANMALARI");
+                textViewSelectedChapterName.setText("ILMIY TADQIQOT METODOLOGIYASI FANIDAN MUSTAQIL ISHLAR TOP'LAMI");
 
                 modelRcyclers.add(new ModelRcycler("O'n ikki oy ertagi","https://github.com/asadbekakmedov2001/kundalik/raw/main/app/src/main/assets/12oy_ertagi.pdf"));
                 modelRcyclers.add(new ModelRcycler("Bog'bon ertagi","https://github.com/asadbekakmedov2001/kundalik/raw/main/app/src/main/assets/bogbon.pdf"));
-                modelRcyclers.add(new ModelRcycler("Do'stlik ertagi","https://github.com/asadbekakmedov2001/kundalik/raw/main/app/src/main/assets/dustlik.pdf"));
-                modelRcyclers.add(new ModelRcycler("Mehmon keldi(Sumalak)","https://github.com/asadbekakmedov2001/kundalik/raw/main/app/src/main/assets/mehmon_keldi.pdf"));
-                modelRcyclers.add(new ModelRcycler("Non isi(Rivoyat)","https://github.com/asadbekakmedov2001/kundalik/raw/main/app/src/main/assets/non_isi.pdf"));
-                modelRcyclers.add(new ModelRcycler("Oltin tarvuz","https://github.com/asadbekakmedov2001/kundalik/raw/main/app/src/main/assets/oltin_tarvuz.pdf"));
-                modelRcyclers.add(new ModelRcycler("Dan xodimi (Yo‘l va bolalar) ","https://github.com/asadbekakmedov2001/kundalik/raw/main/app/src/main/assets/yol_va_bolalar.pdf"));
-                modelRcyclers.add(new ModelRcycler("O‘zbek xalq ertagi Zumrad va Qimmat ","https://github.com/asadbekakmedov2001/kundalik/raw/main/app/src/main/assets/zumrad_va_qimmat.pdf"));
 
             }break;
 
