@@ -28,8 +28,8 @@ public class MainActivity extends AppCompatActivity {
 
     private final String[] PAGE_TITLES = new String[]{
 
-            "Badiiy adabiyotlar",
-            "Odob axloq qoidalari",
+            "Asosiy qism",
+            "Video darslar",
             "Muallif haqida"
 
     };
