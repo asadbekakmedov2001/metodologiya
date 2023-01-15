@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Kundalik odob ahloq qoidalari</string>
+    <string name="app_name">ILMIY TADQIQOT METODOLOGIYASI </string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">Ismoil Allakov</string>
@@ -14,6 +14,6 @@
     <string name="xumoyiddin_turayev">Asadbek Axmedov</string>
     <string name="xumoyiddinturayev">\@Ismail_Allakov</string>
     <string name="termiz_davlat_universiteti">Termiz Davlat Universiteti</string>
-    <string name="muallif_fish">Daminova Shoxista Farxodovna </string>
-    <string name="muallif_haqida">A.Qodiriy nomidagi Jizzax davlat pedagogika universiteti Maktabgacha va boshlang’ich yo’nalishlarida masofaviy ta’lim kafedrasi o’qituvchisi, Maktabgacha taʼlim muassasalari rahbar va mutaxassilarini qayta tayyorlash va ularning malakasini oshirish instituti mustaqil izlanuvchisi. Ilmiy jurnallarda 7 ta xalqaro konferensiyalarda 14 ta ilmiy to’plamlarda 15 ta maqolalar chop etilgan o’quv uslubiy ishlar 2 ta uslubiy ko’rsatma va o’quv qo’llanma chop etilgan. </string>
+    <string name="muallif_fish">Masharipova Gularam Kamilovna </string>
+    <string name="muallif_haqida"> Toshkent to‘qimachilik va yengil sanoat instituti, Falsafa fanlari doktori, professor. </string>
 </resources>
