@@ -60,9 +60,9 @@ public class HomeFragment extends Fragment implements UserAdapter.SelectedUser {
         modelRcyclers.add(new ModelRcycler(R.drawable.maqol,"FAN DASTURI                                           ","ILMIY TADQIQOT METODOLOGIYASI FAN DASTURI...","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/fan_dasturi.pdf"));
         modelRcyclers.add(new ModelRcycler(R.drawable.tez_aytish,"O'QUV REJA                                         ","ILMIY TADQIQOT METODOLOGIYASI FANINING O'QUV REJASI... ",""));
         modelRcyclers.add(new ModelRcycler(R.drawable.topishmoq,"MUSTAQIL ISHLAR                                           ","ILMIY TADQIQOT METODOLOGIYASI FANIDAN MUSTAQIL ISHLAR TOP'LAMI...",""));
-        modelRcyclers.add(new ModelRcycler(R.drawable.beshbob,"TESTLAR                                         ","ILMIY TADQIQOT METODOLOGIYASI FANIDAN TESTLAR TOP'LAMI",""));
-        modelRcyclers.add(new ModelRcycler(R.drawable.beshbob,"YAKUNIY SAVOLLAR                                         ","ILMIY TADQIQOT METODOLOGIYASI FANIDAN NAMUNAVIY YAKUNIY NAZORAT SAVOLLARI",""));
-        modelRcyclers.add(new ModelRcycler(R.drawable.beshbob,"IZOHLI LUG'AT (GLOSSARIY)                                         ","ILMIY TADQIQOT METODOLOGIYASI FANIDAN IZOHLI LUG'AT",""));
+        modelRcyclers.add(new ModelRcycler(R.drawable.beshbob,"TESTLAR                                         ","ILMIY TADQIQOT METODOLOGIYASI FANIDAN TESTLAR TOP'LAMI","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/testlar.doc"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.beshbob,"YAKUNIY SAVOLLAR                                         ","ILMIY TADQIQOT METODOLOGIYASI FANIDAN NAMUNAVIY YAKUNIY NAZORAT SAVOLLARI","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/yakuniy_savollari.docx"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.beshbob,"IZOHLI LUG'AT (GLOSSARIY)                                         ","ILMIY TADQIQOT METODOLOGIYASI FANIDAN IZOHLI LUG'AT","https://github.com/asadbekakmedov2001/metodologiya/raw/main/app/src/main/assets/glossariy.docx"));
 
 
 
