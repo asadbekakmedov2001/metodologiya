@@ -78,6 +78,20 @@
                         android:textColor="@color/black"
                         android:textSize="10sp"
                         tools:ignore="SmallSp" />
+                    <TextView
+
+                        android:layout_width="20dp"
+                        android:layout_height="30dp"
+                        android:layout_marginStart="16dp"
+                        android:layout_marginTop="3dp"
+                        android:layout_marginEnd="16dp"
+                        android:layout_marginBottom="20dp"
+                        android:drawablePadding="10dp"
+                        android:justificationMode="inter_word"
+                        android:text=""
+                        android:textColor="@color/black"
+                        android:textSize="10sp"
+                        tools:ignore="SmallSp" />
 
                 </LinearLayout>
 
